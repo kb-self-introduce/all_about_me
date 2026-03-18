@@ -18,14 +18,18 @@
 ## v1.2.2
 ### Added
 - `member-ahhyun.md` 추가 (#5, #9) (@ahhyunii)
+- `member-seungmin.md` 추가 (#14) (@01jungseungmin)
+- `member-inho.md` 추가 (#11, #16) (@INHOBBO)
 
 ## v1.2.3
-### Added
-- `member-seungmin.md` 추가 (#14) (@01jungseungmin)
+### Fixed
+- `member-seungmin.md` 위치 올바른 디렉토리로 이동 (#18) (@01jungseungmin)
 
-## v1.2.4
+## v.1.3.0
 ### Added
-- `member-inho.md` 추가 (#11, #16) (@INHOBBO)
+- `topic-ttukseompark.md` 추가 (#7, #19) (@yhw032)
+
+
 
 <!--
 ### Changed
