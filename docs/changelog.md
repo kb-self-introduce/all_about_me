@@ -46,7 +46,13 @@
 ### Added
 - `topic-konkuk-university.md` 파일 추가 (#30, #31) (@INHOBBO)
 
+## v1.4.2
+### Fixed
+- `member-inbeom.md` 위치 올바른 디렉토리로 이동 (#18) (@yesyes-12)
 
+## v1.4.3
+### Added
+- `topic-seoul-children's_grand_park.md` 파일 추가 (#7, #27, #33) (@01jungseungmin)
 
 <!--
 ### Changed
