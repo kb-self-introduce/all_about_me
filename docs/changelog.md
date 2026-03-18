@@ -7,6 +7,12 @@
 ### Added
 - `member-heewook.md` 추가 (#5, #10) (@yhw032)
 
+## v1.2.0
+### Added
+- 팀 커뮤니케이션 규칙 및 커밋 메시지 컨벤션 추가 (#3) (@yesyes-12)
+
+
+
 <!--
 ### Changed
 ### Added
