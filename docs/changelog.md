@@ -25,11 +25,18 @@
 ### Fixed
 - `member-seungmin.md` 위치 올바른 디렉토리로 이동 (#18) (@01jungseungmin)
 
-## v.1.3.0
+## v1.3.0
 ### Added
 - `topic-ttukseompark.md` 추가 (#7, #19) (@yhw032)
 
+## v1.3.1
+### Added
+- `member-inbeom.md` 추가 (#5, #10) (@yesyes-12)
 
+## v1.3.2
+### Fixed
+- `member-inho.md` 위치 올바른 디렉토리로 이동 (#18, #20) (@INHOBBO)
+- `member-heewook.md` 위치 올바른 디렉토리로 이동 (#18) (@yhw032)
 
 <!--
 ### Changed
