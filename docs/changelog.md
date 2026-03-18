@@ -53,6 +53,20 @@
 ## v1.4.3
 ### Added
 - `topic-seoul-children's_grand_park.md` 파일 추가 (#7, #27, #33) (@01jungseungmin)
+- `member-hyomin.md` 추가 (#5, #12) (@gyak)
+
+## 1.4.4
+### Added
+- `docs/changelog.md` 파일 작성 (#6) (@yhw032)
+
+## 1.4.5
+### Changed
+- `README.md` 수정 이력 테이블 수정 (#38) (@yesyes-12)
+- `README.md` 테이블 충돌 상황 (#37) (@INHOBBO)
+
+## 1.4.6
+### Fixed
+- `README.md` 충돌 상황 해결 (#38) (@yesyes-12)
 
 <!--
 ### Changed
