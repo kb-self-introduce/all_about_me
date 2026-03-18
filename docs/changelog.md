@@ -11,6 +11,10 @@
 ### Added
 - 팀 커뮤니케이션 규칙 및 커밋 메시지 컨벤션 추가 (#3) (@yesyes-12)
 
+## v1.2.1
+### Removed
+- 불필요한 파일 `suggest_place.md` 삭제 (#18) (@01jungseungmin)
+
 
 
 <!--
