@@ -19,6 +19,14 @@
 ### Added
 - `member-ahhyun.md` 추가 (#5, #9) (@ahhyunii)
 
+## v1.2.3
+### Added
+- `member-seungmin.md` 추가 (#14) (@01jungseungmin)
+
+## v1.2.4
+### Added
+- `member-inho.md` 추가 (#11, #16) (@INHOBBO)
+
 <!--
 ### Changed
 ### Added
