@@ -15,7 +15,9 @@
 ### Removed
 - 불필요한 파일 `suggest_place.md` 삭제 (#18) (@01jungseungmin)
 
-
+## v1.2.2
+### Added
+- `member-ahhyun.md` 추가 (#5, #9) (@ahhyunii)
 
 <!--
 ### Changed
