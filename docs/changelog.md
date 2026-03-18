@@ -68,6 +68,10 @@
 ### Fixed
 - `README.md` 충돌 상황 해결 (#38) (@yesyes-12)
 
+## 1.4.7
+### Fixed
+- `member-ahhyun.md` 삭제된 파일 복구 (@yesyes-12)
+
 <!--
 ### Changed
 ### Added
