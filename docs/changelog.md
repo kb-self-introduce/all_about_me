@@ -38,6 +38,16 @@
 - `member-inho.md` 위치 올바른 디렉토리로 이동 (#18, #20) (@INHOBBO)
 - `member-heewook.md` 위치 올바른 디렉토리로 이동 (#18) (@yhw032)
 
+## v1.4.0
+### Added
+- `README.md` 파일 추가 (#2) (@ahhyunii)
+
+## v1.4.1
+### Added
+- `topic-konkuk-university.md` 파일 추가 (#30, #31) (@INHOBBO)
+
+
+
 <!--
 ### Changed
 ### Added
